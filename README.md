@@ -9,8 +9,8 @@ Orirignal code provided by MicroSoft via Coursera as part of the Python Web Deve
 Running the app with a valid API Key and city, will return the current temperature in Kelvin (with F/C conversions) and simple text
 description of the weather type (Clear/Sunny/Partial Clouds/etc...)
 
-** The original script and API only provided the Kelvin and weather description, **
-* I've added the conversions for both (F)ahrenheit and (C)elcius *
+**The original script and API only provided the Kelvin and weather description,**
+*I've added the conversions for both (F)ahrenheit and (C)elcius*
 
 # License Info
 Execpt where noted, assume all code was created and shared as part of the MicroSoft Python Web Developer course via Coursera
